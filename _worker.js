@@ -7,4 +7,4 @@ addEventListener(
        fetch(request)
      )
   }
-)
+);

@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const _url = new URL(request.url);
-    _url.hostname = _url.pathname.startsWith("/5b/")
+    _url.hostname = _url.pathname.startsWith("/vpn-knowledge/")
       ? "5best1s.com"
       : "gitlab.com";
     const req = new Request(_url, request);

@@ -5,7 +5,7 @@ export default {
       _url.hostname = "5best1s.com";
       _url.pathname = _url.pathname.slice(3);
     } else {
-      _url.hostname = "archive.org";
+      _url.hostname = "www.google.com";
     }
     const req = new Request(_url, request);
     const context = {

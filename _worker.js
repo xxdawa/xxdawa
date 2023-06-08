@@ -15,8 +15,8 @@ export default {
     const res = await fetch(req);
     const body = await res.text();
     const newBody = _url.hostname.includes("5best1s.com") 
-      ? body.replace(/{{\s*_url.hostname\s*}}/g,context.domainA)
-      : body.replace(/{{\s*_url.hostname\s*}}/g,context.domainB);
+      ? body.replace(new RegExp(_url.hostname,'g'),context.domainA)
+      : body.replace(new RegExp(_url.hostname,'g'),context.domainB);
     
     return new Response(newBody, {
       status: res.status,

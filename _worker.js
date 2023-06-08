@@ -9,7 +9,7 @@ export default {
     }
     const req = new Request(_url, request);
     const context = {
-      domainA: "xlab.xdawa.shop/5b/",
+      domainA: "xlab.xdawa.shop/5b",
       domianB: "xlab.xdawa.shop"
     };
     const res = await fetch(req);

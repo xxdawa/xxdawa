@@ -9,7 +9,9 @@
 1. 切换到/etc/apt/source.list.d/目录下  
 `cd /etc/apt/source.list.d/`
 2. 将源地址修改为第三方源或你自己的代理，例如代理服务器是https://xx.eu.org<br>
-`sudo sed -i s|^deb\ |deb\ https://xx.eu.org/|g zorin*.list`
+`sudo sed -i s@^deb\ @deb\ https://xx.eu.org/@g zorin*.list`<br>
+3. 回退PPA和zorin官方源   
+`sudo sed -i s@^deb\ https://xx.eu.org/@^deb\ @g zorin*.list`
 
 ## 设置APT代理 （可选）
 使用-o参数，临时设置APT代理

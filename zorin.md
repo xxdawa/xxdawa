@@ -18,4 +18,7 @@
 
 添加配置文件，写入代理内容永久生效
   + nano /etc/apt.conf.d/95proxy.conf
+### 安装虚拟机优化工具 (可选)
+`sudo apt install open-vm-tools-desktop`
+
 

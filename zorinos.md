@@ -9,17 +9,15 @@
 1. 切换到/etc/apt/source.list.d/目录下  
 `cd /etc/apt/source.list.d/`
 2. 将源地址修改为第三方源或你自己的代理，例如代理服务器是https://xx.eu.org<br>
-`sudo sed -i s|^deb\ http|deb\ https://xx.eu.org/http|g zorin*.list`
+`sudo sed -i s|^deb\ |deb\ https://xx.eu.org/|g zorin*.list`
 
 ## 设置APT代理 （可选）
-使用命令行，临时设置APT代理
+使用-o参数，临时设置APT代理
   + `sudo apt -o acquire::http::proxy="http://yourproxyserver:port <update/install>"`  
   + `sudo apt -o acquire::http::proxy=false -o acquire::https::proxy=false -o acquire::ftp::proxy=false <update/install>`
 
-创建代理配置文件，永久设置APT代理
+创建代理配置文件，添加下面内容，永久设置APT代理
   + `nano /etc/apt.conf.d/95proxy.conf`
-
-添加如下内容：
 ```
 Acquire {
    http::Proxy "http://192.168.0.106:8080/";

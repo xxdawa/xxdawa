@@ -15,7 +15,7 @@
 
 替换flatpak官方源
 1. 查看远端配置，是全局配置（system）还是当前用户配置（user）    
-`flatpak remote -d`
+`flatpak remotes -d`
 2. 根据上一步查询结果，修改远端地址
 使用remote-modify 参数    
 `flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub`    

@@ -6,9 +6,9 @@
 - `sudo sed -i 's/http:/https:/g' /etc/apt/sources.list` (可选)
  
 替换PPA和zorin官方源
-1. 切换到`/etc/apt/source.list.d/`目录下  
+1. 切换到/etc/apt/source.list.d/目录下  
 `cd /etc/apt/source.list.d/`
-2. 将源地址修改为第三方源或你自己的代理，例如代理服务器是`https://xx.eu.org`<br>
+2. 将源地址修改为第三方源或你自己的代理，例如代理服务器是https://xx.eu.org<br>
 `sudo sed -i s|^deb\ http|deb\ https://xx.eu.org/http|g zorin*.list`
 
 ## 设置APT代理 （可选）

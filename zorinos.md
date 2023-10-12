@@ -39,7 +39,7 @@ Acquire {
 ```
 
 ## 安装虚拟机优化工具 (可选)
-`sudo apt update`
+`sudo apt update` &&
 `sudo apt install open-vm-tools-desktop`
 
 

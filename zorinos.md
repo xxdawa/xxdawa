@@ -1,4 +1,4 @@
-# Zorin 16.3 Pro 系统使用体验
+# Zorin 16.3 Pro 系统使用初体验
 ## 替换源
 替换Ubuntu官方源
 - `sudo sed -i s@.*//archive.ubuntu.com@//mirrors.tencent.com@g /etc/apt/source.list`

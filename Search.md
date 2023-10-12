@@ -1,6 +1,6 @@
 # Search Keys 
 ## 测速地址
-vps testfiles mb
+谷歌搜搜 vps glass 或 testfile mb
 ## FoFa 主机搜索
 server=="cloudflare" && port=="80" && header="Forbidden" && country=="CN"  
 剔除CF：asn!="13335" && asn!="209242"  

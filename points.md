@@ -1,7 +1,7 @@
 ## 科学技术
 - 各种技术文章（操作与使用）  
 `https://blog.misaka.rest`  
-- 项目地址（代码 + 使用说明）   
+- 项目地址（代码+使用说明）   
   `https://github.com/Misaka-blog`
 ## 免费节点
 ### 订阅地址（clashmeta）

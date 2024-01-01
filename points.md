@@ -27,5 +27,5 @@ shadowrocket（苹果美区App商店付费下载）
 示例：  
 ```https://xhub.xdawa.shop/```
 ## 注意事项
-- Windows 平台使用Clash Verge时，首先到设置中切换Clash内核为Clash Meta
-  具体操作路径：设置 ——— Clash 内核（点击旁边的齿轮图标）———— 选择 Clash Meta ———— 点击 重启内核
+- Windows 平台使用Clash Verge时，首先到设置中切换Clash内核为Clash Meta。
+  具体操作路径：设置 — Clash 内核（点击旁边的齿轮图标）— 选择 Clash Meta — 点击 重启内核

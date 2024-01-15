@@ -1,5 +1,5 @@
 ## 科学技术
-- 科技文章（操作与使用）  
+- 科技博客（操作与使用）  
 `https://blog.misaka.rest`  
 - 项目地址（代码+使用说明）   
   `https://github.com/Misaka-blog`

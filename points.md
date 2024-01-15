@@ -1,12 +1,12 @@
 ## 科学技术
-- 各种技术文章（操作与使用）  
+- 科技文章（操作与使用）  
 `https://blog.misaka.rest`  
 - 项目地址（代码+使用说明）   
   `https://github.com/Misaka-blog`
 ## 免费节点
-- 订阅地址（clashmeta）  
+- 直接使用订阅地址（clashmeta）  
 `https://mareep.netlify.app/sub/merged_warp_proxies_new.yaml`
-- 订阅地址项目  
+- 详细订阅地址见项目  
 `https://github.com/vveg26/chromego_merge`  
 ## 免费工具
 - Windows  
@@ -18,10 +18,10 @@
 - IOS  
 shadowrocket（苹果美区App商店付费下载）
 ## GitHub加速
-- 下载加速  
+- GitHub下载加速  
 使用xhub.xdawa.shop域名替换github.com域名即可，示例：  
 ```https://xhub.xdawa.shop/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe```
-- 网页加速  
+- GitHub网页加速  
 加速访问GitHub页面，使用xhub.xdawa.shop域名，示例：  
 ```https://xhub.xdawa.shop/```
 ## 注意事项

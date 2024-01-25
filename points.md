@@ -3,21 +3,19 @@
 `https://blog.misaka.rest`  
 - 项目地址（代码+使用说明）   
   `https://github.com/Misaka-blog`
-## 免费节点
+## clashmeta 免费订阅
 - 直接使用订阅地址（clashmeta）  
 `https://mareep.netlify.app/sub/merged_warp_proxies_new.yaml`
 - 详细订阅地址见项目  
 `https://github.com/vveg26/chromego_merge`  
-## 免费工具
-- Windows  
-`https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe`  
-- Macos  
-`https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.AppImage`
-- Android  
-`https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.9.0/cmfa-2.9.0-meta-arm64-v8a-release.apk`
+## clashmeta 免费客户端
+**注意点击链接会直接下载**
+- [Windows  ](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe)
+- [Macos](https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/clash-verge_1.3.8_amd64.AppImage)  
+- [Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.9.0/cmfa-2.9.0-meta-arm64-v8a-release.apk)  
 - IOS  
-shadowrocket（苹果美区App商店付费下载）
-## GitHub加速
+shadowrocket（苹果美区App商店需付费下载）
+## GitHub 加速
 - GitHub下载加速  
 使用xhub.xdawa.shop域名替换github.com域名即可，示例：  
 ```https://xhub.xdawa.shop/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe```

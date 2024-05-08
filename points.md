@@ -15,13 +15,6 @@
 - [Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.9.0/cmfa-2.9.0-meta-arm64-v8a-release.apk)  
 - IOS  
 shadowrocket（苹果美区App商店需付费下载）
-## GitHub 加速
-- GitHub下载加速  
-使用xhub.xdawa.shop域名替换github.com域名即可，示例：  
-```https://xhub.xdawa.shop/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe```
-- GitHub网页加速  
-加速访问GitHub页面，使用xhub.xdawa.shop域名，示例：  
-```https://xhub.xdawa.shop/```
 ## 注意事项
 - 使用Clash Verge导入订阅前，确保内核为Clash Meta。Windows 平台，首先到设置中切换Clash内核为Clash Meta，
   具体操作路径：设置 — Clash 内核（点击旁边的齿轮图标）— 选择 Clash Meta — 点击 重启内核

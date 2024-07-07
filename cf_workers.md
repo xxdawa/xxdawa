@@ -1,4 +1,4 @@
-# cloudflare workers 项目
+# cloudflare workers 优秀项目
 
 项目地址：  
 zizifn：https://github.com/zizifn/edgetunnel  
